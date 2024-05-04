@@ -1,12 +1,7 @@
-import java.awt.event.ActionEvent;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
-
 import javax.swing.*;
-import java.awt.*;
-import javax.swing.border.LineBorder;
-import javax.swing.border.SoftBevelBorder;
 
 
 public class Quiz {
