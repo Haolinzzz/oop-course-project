@@ -5,8 +5,6 @@ import java.io.IOException;
 
 import javax.swing.*;
 import java.awt.*;
-import javax.swing.border.LineBorder;
-import javax.swing.border.SoftBevelBorder;
 
 class welcomePage extends JPanel {
 
