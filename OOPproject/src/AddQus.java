@@ -1,6 +1,4 @@
-import java.awt.BorderLayout;
 import java.awt.Color;
-import java.awt.EventQueue;
 import java.awt.Toolkit;
 
 import javax.swing.JFrame;
@@ -34,7 +32,7 @@ public class AddQus extends JFrame {
         setResizable(false);
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setTitle("Add Questions");
-        //setBounds(100, 100, 800, 500);
+     
         setBounds((width - windowsWidth) / 2,
                 (height - windowsHeight) / 2, 800, 500);
         contentPane = new JPanel();
