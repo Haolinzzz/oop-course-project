@@ -2,11 +2,6 @@ import java.awt.event.ActionEvent;
 import javax.swing.*;
 import java.awt.*;
 import javax.swing.border.LineBorder;
-import javax.swing.border.SoftBevelBorder;
-import java.io.FileWriter;
-import java.io.IOException;
-import java.io.BufferedReader;
-import java.io.FileReader;
 
 class scorePanel extends JPanel {
 
